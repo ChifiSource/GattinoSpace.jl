@@ -1,2 +1,2 @@
-# GattinoSpace.jl
-provides continuous space plots for gattino
+###### gattino space!
+In a traditional `Gattino` visualization, frames are bound exclusively by width and height and the representation of data in the visualization's space is driven exclusively by the properties of the data visualized, not the space in which the data is visualized. `GattinoSpace` provides the alternative to this, in which the maximum `X` dimension and maximum `Y` dimension are contained within continuous space. This simply means that the data is always represented in proportion -- meaning that all the features visualized under this context would also be presumably of the same measurement. 
